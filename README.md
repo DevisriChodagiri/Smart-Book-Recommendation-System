@@ -161,7 +161,7 @@ pip install -r requirements.txt
 ## Run the Project
 
 ```bash
-python recc.py
+python smartBookRecommedation
 ```
 
 ---
@@ -178,4 +178,4 @@ python recc.py
 
 ## Author
 
-**Devisree**
+**Devisri**
